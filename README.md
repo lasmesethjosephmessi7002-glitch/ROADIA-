@@ -15,7 +15,7 @@ ROADIA offers a solution: **connecting roads, cars, and AI** to assist drivers a
 
 
 
-## 🛠️ Demo Features
+##  Demo Features
 - **Intersection in the shape of a ➕ (one vertical road and one horizontal road).**  
 - **Simulation of three cars in real time**:  
   - Car 1 (red) → turns left  
@@ -26,15 +26,15 @@ ROADIA offers a solution: **connecting roads, cars, and AI** to assist drivers a
 
 
 
-## 🖥️ Demonstration Videos
+## Demonstration Videos
 
-- 🎥 **Technical demo (Pygame simulation):** [YouTube link 1]  
+- 🎥 **Technical demo (Pygame simulation):** [https://youtube.com/shorts/2kiXoITqzz0?si=uwB8xs7sErKv7KR0]  
 
-- 🎥 ** presentation video  (41 seconds.  designed with Canva):** [YouTube link 2]
+- 🎥 ** Short video presentation of the features (41 seconds.  designed with Canva):** [https://youtube.com/shorts/TraFoG8Pg5c?si=6WaOCre-XIokIeN4]
 
 
 
-## 💻 Code
+## Code
 The code is written in **Python** using the **Pygame** library.  
 It is simple, documented, and designed to illustrate the concept, not to replace a real embedded system.  
 
