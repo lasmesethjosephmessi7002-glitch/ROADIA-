@@ -77,3 +77,20 @@ High school senior (Terminale C), Côte d’Ivoire
 Passionate about mechanics, aeronautics, and technological innovation
 
 contact : lasmesethjosephmessi7002@gmail.com
+
+
+
+
+
+
+## 🔖 Author’s Note
+
+This project is part of my personal portfolio as an independent student innovator.  
+While the code and concept are shared publicly for demonstration and educational purposes,  
+they remain part of my original creative and technological work.
+
+© 2025 Lasme Seth Joseph Messi Emmanuel  
+Licensed under the MIT Portfolio License.  
+For any collaboration or research use, please contact: sethjoseph@gmail.com
+
+
