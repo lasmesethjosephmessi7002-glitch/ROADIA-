@@ -91,6 +91,6 @@ they remain part of my original creative and technological work.
 
 © 2025 Lasme Seth Joseph Messi Emmanuel  
 Licensed under the MIT Portfolio License.  
-For any collaboration or research use, please contact: sethjoseph@gmail.com
+For any collaboration or research use, please contact: lasmesethjosephmessi7002@gmail.com
 
 
