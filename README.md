@@ -28,7 +28,7 @@ ROADIA offers a solution: **connecting roads, cars, and AI** to assist drivers a
 
 ## Demonstration Videos
 
-- 🎥 **Technical demo (Pygame simulation):** [https://youtube.com/shorts/2kiXoITqzz0?si=uwB8xs7sErKv7KR0]  
+- 🎥 **Technical demo (Pygame simulation):** [Watch the demo on YouTube](https://youtube.com/shorts/2kiXoITqzz0?si=uwB8xs7sErKv7KR0) 
 
 - 🎥 ** Short video presentation of the features (41 seconds.  designed with Canva):** [https://youtube.com/shorts/TraFoG8Pg5c?si=6WaOCre-XIokIeN4]
 
